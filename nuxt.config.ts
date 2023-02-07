@@ -1,5 +1,6 @@
 import eslintPlugin from 'vite-plugin-eslint';
 
+// TODO: foo bar
 export default defineNuxtConfig({
   app: {
     head: {
